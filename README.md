@@ -35,12 +35,5 @@ N-Tier Architecure Structure (3-Tier): &nbsp;<br>
 <h2>Demo (Real-Time Features): </h2>
 <br>
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/user-attachments/assets/38dc0850-730c-4bff-b584-487d905c6902" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-<br>
-
-
 Link for the demo: https://github.com/user-attachments/assets/38dc0850-730c-4bff-b584-487d905c6902
 
