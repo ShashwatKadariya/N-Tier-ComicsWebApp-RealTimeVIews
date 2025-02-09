@@ -29,7 +29,10 @@ created using a N-Tier(3-Tier) Architecture:
   <li>Business Logic Layer (BLL)</li>
   <li>Data Access Layer (DAL)</li>
 </ul>
-N-Tier Architecure Structure (3-Tier): &nbsp;
+N-Tier Architecure Structure (3-Tier): &nbsp;<br>
 <img width="285" alt="image" src="https://github.com/user-attachments/assets/0b754040-5ffa-4066-837b-75c09a62bf28" />
 
+<h2>Demo (Real-Time Features): </h2>
+<br>
+https://github.com/user-attachments/assets/38dc0850-730c-4bff-b584-487d905c6902
 
