@@ -1,0 +1,49 @@
+@using DataAccess.Entities
+@model List<DataAccess.Entities.Category>
+
+<div class="container">
+    <div class="row pt-4 pb-4">
+        <div class="col-6">
+            <h2 class="text-primary">CATEGORY LIST</h2>
+        </div>
+        <div class="col-6 text-end">
+            <a asp-area="Admin" asp-controller="Category" asp-action="Create" class="btn btn-primary">
+                <i class="bi bi-plus-circle-fill"></i>
+                Create New Category
+            </a>
+        </div>
+    </div>
+    <table class="table table-borderless table-striped table-hover">
+        <thead>
+        <tr>
+            <th style="font-size: 2rem;">
+                Category Name
+            </th>
+            <th style="font-size: 2rem;">
+                Description
+            </th>
+            <th></th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (Category obj in Model)
+        {
+            <tr id="category-@obj.Id">
+                <td>@obj.Name</td>
+                <td>@obj.Description</td>
+                <td>
+                    <div role="group" class="btn-group d-flex gap-2">
+                        <a asp-area="Admin" asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary flex-fill">
+                            <i class="bi bi-pencil-square"></i> Edit
+                        </a>
+                        <a asp-area="Admin" asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger flex-fill">
+                            <i class="bi bi-trash-fill"></i> Delete
+                        </a>
+                    </div>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+

@@ -1,0 +1,29 @@
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-dismissible alert-success" id="successMessage">
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        <strong>@TempData["success"]</strong>
+    </div>
+}
+@if (TempData["error"] != null)
+{
+    <div class="alert alert-dismissible alert-danger" id="errorMessage">
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        <strong>@TempData["error"]</strong>
+    </div>
+}
+
+<script type="text/javascript">
+            // Set a timer to remove success and error messages after 5 seconds
+            setTimeout(function () {
+                var successMessage = document.getElementById('successMessage');
+                var errorMessage = document.getElementById('errorMessage');
+
+                if (successMessage) {
+                    successMessage.style.display = 'none';
+                }
+                if (errorMessage) {
+                    errorMessage.style.display = 'none';
+                }
+            }, 5000); // 5000 ms = 5 seconds
+</script>

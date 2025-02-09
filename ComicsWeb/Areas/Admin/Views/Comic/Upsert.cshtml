@@ -1,0 +1,72 @@
+@model ComicVM
+
+<div class="row pb-2">
+    <h2 class="text-primary">@(Model.Comic.Id!=Guid.Empty?"Update":"Create") Comic</h2>
+</div>
+
+<form asp-area="Admin" asp-controller="Comic" asp-action="Upsert" enctype="multipart/form-data">
+    <input asp-for="Comic.Id" hidden />
+    <input asp-for="Comic.ImageUrl" hidden>
+    <div class="row">
+        <div class="col-10">
+            <div class="border p-3 mt-4">
+                <div asp-validation-summary="ModelOnly" class="small"></div>
+                <div class="mb-3 row p-1">
+                    <label asp-for="Comic.Title" class="p-0"></label>
+                    <input asp-for="Comic.Title" class="form-control">
+                    <span asp-validation-for="Comic.Title" class="text-danger small"></span>
+                </div>
+                <div class="mb-3 row p-1">
+                    <label asp-for="Comic.Description" class="p-0"></label>
+                    <textarea asp-for="Comic.Description" class="form-control"> </textarea>
+                    <span asp-validation-for="Comic.Description" class="text-danger small"></span>
+                </div>
+                <div class="mb-3 row p-1">
+                    <label asp-for="Comic.inStock" class="p-0"></label>
+                    <input asp-for="Comic.inStock" class="form-control">
+                    <span asp-validation-for="Comic.inStock" class="text-danger small"></span>
+                </div>
+                <div class="mb-3 row p-1">
+                    <label asp-for="Comic.Price" class="p-0"></label>
+                    <input asp-for="Comic.Price" class="form-control">
+                    <span asp-validation-for="Comic.Price" class="text-danger small"></span>
+                </div>
+                <div class="mb-3 row p-1">
+                    <label asp-for="Comic.CategoryId" class="p-0"></label>
+                    <select asp-for="Comic.CategoryId" asp-items="@Model.CategoryList" class="form-select">
+                        <option disabled selected>--Select-Category--</option>
+                    </select>
+                    <span asp-validation-for="Comic.CategoryId" class="text-danger small"></span>
+                </div>
+                <div class="mb-3 row p-1">
+                    <label asp-for="Comic.ImageUrl" class="p-0"></label>
+                    <input type="file" name="file" asp-for="Comic.ImageUrl" class="form-control"/>
+                    @* <span asp-validation-for="Comic.ImageUrl" class="text-danger small"></span> *@
+                </div>
+                <div class="row">
+                    <div class="col-6 col-md-3">
+                        @if (Model.Comic.Id != Guid.Empty)
+                        {
+                            <button type="submit" class="btn btn-primary form-control">Update</button>
+                        }
+                        else
+                        {
+                            <button type="submit" class="btn btn-primary form-control">Create</button>
+                        }
+                    </div>
+                    <div class="col-6 col-md-3">
+                        <a asp-area="Admin" asp-controller="Comic" asp-action="Index" class="btn btn-outline-secondary form-control">Go Back</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-2">
+            <img src="@Model.Comic.ImageUrl" width="100%"/>
+        </div>
+    </div>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial"/>
+}

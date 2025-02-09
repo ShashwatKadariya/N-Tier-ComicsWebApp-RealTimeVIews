@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/obj/Debug/net8.0/scopedcss/projectbundle/ComicsWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets/ComicsWeb.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/images/comics/308d8e86-f23c-4c51-95d6-a3288f85ccd7.jpg",
+      "PackagePath": "staticwebassets/images/comics/308d8e86-f23c-4c51-95d6-a3288f85ccd7.jpg"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/images/comics/3e7a5f91-e3cc-48df-b259-cc6349722aef.jpg",
+      "PackagePath": "staticwebassets/images/comics/3e7a5f91-e3cc-48df-b259-cc6349722aef.jpg"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/images/comics/57b9726e-abd3-4884-91d7-4661ec3c1f4a.jpg",
+      "PackagePath": "staticwebassets/images/comics/57b9726e-abd3-4884-91d7-4661ec3c1f4a.jpg"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/images/comics/592db43b-0196-479c-9ea6-e22afb57a66a.jpg",
+      "PackagePath": "staticwebassets/images/comics/592db43b-0196-479c-9ea6-e22afb57a66a.jpg"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/images/comics/6ffd8653-cd56-4217-9d1f-d5fd54152063.jpg",
+      "PackagePath": "staticwebassets/images/comics/6ffd8653-cd56-4217-9d1f-d5fd54152063.jpg"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/images/comics/8042daaa-cf64-421d-a216-c1fe7c1e2fcd.png",
+      "PackagePath": "staticwebassets/images/comics/8042daaa-cf64-421d-a216-c1fe7c1e2fcd.png"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/images/comics/8d797122-9f7a-4237-b3c0-b4587d737b96.jpg",
+      "PackagePath": "staticwebassets/images/comics/8d797122-9f7a-4237-b3c0-b4587d737b96.jpg"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/images/comics/af7ec3d1-6134-4945-ac12-53512199aa1d.jpg",
+      "PackagePath": "staticwebassets/images/comics/af7ec3d1-6134-4945-ac12-53512199aa1d.jpg"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/js/comic.js",
+      "PackagePath": "staticwebassets/js/comic.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/js/notification.js",
+      "PackagePath": "staticwebassets/js/notification.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/ComicsWeb/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ComicsWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ComicsWeb.props",
+      "PackagePath": "build\\ComicsWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ComicsWeb.props",
+      "PackagePath": "buildMultiTargeting\\ComicsWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ComicsWeb.props",
+      "PackagePath": "buildTransitive\\ComicsWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

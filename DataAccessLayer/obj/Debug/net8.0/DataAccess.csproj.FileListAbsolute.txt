@@ -1,0 +1,14 @@
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/bin/Debug/net8.0/DataAccess.runtimeconfig.json
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/DataAccess.genruntimeconfig.cache
+/Users/shashwatkadadriya/Development/ASPDOTNET/N-Tier_Comics/ComicsWebApp/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll

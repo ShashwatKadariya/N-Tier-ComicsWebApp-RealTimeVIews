@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComicsWeb", "ComicsWeb\ComicsWeb.csproj", "{F2B675CA-39D4-456E-B510-0C34600E5D0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{839F7866-6BA8-42E2-8242-F675436F5020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{FD6F9D38-4265-4062-ABBA-1B37283E4B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B675CA-39D4-456E-B510-0C34600E5D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B675CA-39D4-456E-B510-0C34600E5D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B675CA-39D4-456E-B510-0C34600E5D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B675CA-39D4-456E-B510-0C34600E5D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839F7866-6BA8-42E2-8242-F675436F5020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839F7866-6BA8-42E2-8242-F675436F5020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839F7866-6BA8-42E2-8242-F675436F5020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839F7866-6BA8-42E2-8242-F675436F5020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6F9D38-4265-4062-ABBA-1B37283E4B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6F9D38-4265-4062-ABBA-1B37283E4B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6F9D38-4265-4062-ABBA-1B37283E4B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6F9D38-4265-4062-ABBA-1B37283E4B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
